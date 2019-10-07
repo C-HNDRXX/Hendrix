@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+line-height: 25px;
+border-top: 5px solid #489797;
+border-bottom: 5px solid #489797;
+background-image: url(paper.png);
+}
+
+.u1 {
+font-family: Helvetica;
+font-weight: 1000;
+font-size: 20px;
+line-height: -100px;
+}
+.u2 {
+font-size: 27px;
+font-weight: 800;
+font-family: Helvetica;
+margin-top: 4px;
+}
+.u3 {
+color: #489797;
+margin-bottom: 4px;
+}
+.u4 {
+color: #489797;
+line-height: 10px;
+}
+h4 {
+  padding: 0px;
+  margin: 1px;
+}
